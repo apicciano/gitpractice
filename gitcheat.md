@@ -16,3 +16,4 @@ grep searches a file for a specifica string
 NOTES FOR TUESDAY GIT .
 gitcheat.md is a Markdown file as per the "md" suffix.
 a critical aspect of Git is the ability to communicate with Github and keep both local files and Github files in sync.
+This is a change o demonsrae the "pull" feature.
